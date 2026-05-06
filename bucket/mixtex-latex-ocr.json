@@ -1,5 +1,5 @@
 {
-    "version": "MixTex-B",
+    "version": "B",
     "homepage": "https://github.com/RQLuo/MixTeX-Latex-OCR",
     "description": "MixTeX: Multimodal LaTeX, ZhEn, and Table OCR. CPU-based offline inference on Windows.",
     "license": "Unknown",
@@ -10,10 +10,16 @@
         }
     },
     "bin": [
-        ["MixTeX-B.exe", "mixtex"]
+        [
+            "MixTeX-B.exe",
+            "mixtex"
+        ]
     ],
     "shortcuts": [
-        ["MixTeX-B.exe", "MixTeX"]
+        [
+            "MixTeX-B.exe",
+            "MixTeX"
+        ]
     ],
     "persist": "models",
     "checkver": {
