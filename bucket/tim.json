@@ -6,7 +6,7 @@
         "identifier": "Unknown",
         "url": "http://play.mobile.qq.com/yy/eim/help/serverinfo.html"
     },
-    "url": "http://dldir1.qq.com/qqfile/qq/TIM3.5.0/TIM3.5.0.22143.exe#/dl.7z",
+    "url": "http://qqdl.gtimg.cn/qqfile/qq/TIM3.5.0/TIM3.5.0.22143.exe#/dl.7z",
     "hash": "4143f88baa26d4e61b0380eb917d20918f64b4b7a86e93c39cbf08ff841934e1",
     "pre_install": [
         "if (Test-Path \"$env:AppData\\Tencent\\Tim\") {",
