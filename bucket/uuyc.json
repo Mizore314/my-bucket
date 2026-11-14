@@ -1,13 +1,13 @@
 {
-    "version": "4.47.0.5146",
+    "version": "4.45.1.4372",
     "description": "网易UU远程，提供低延迟远程连接与云游戏体验。",
     "homepage": "https://uuyc.163.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://uuyc.163.com/"
     },
-    "url": "https://a56.gdl.netease.com/UURemote_Setup_4.47.0.5146_1112133553_gwqd.exe?key1=ece5967f8ca8768974dc73b471ece9ff&key2=6af6973d&n=uuyc_4.47.0.exe",
-    "hash": "fb2d24a40a51ae82701ae2d145db387df4fb63f8bad2d020db4afccda928195e",
+    "url": "https://a56.gdl.netease.com/UURemote_Setup_4.45.1.4372_1030093035_gwqd.exe?key1=212d732c2d313b78ba555d79d977b213&key2=6af85a0a&n=uuyc_4.45.1.exe",
+    "hash": "f7bef4162213b038a246e05e130b40dde98610aeed19b3691e6e9497dc508dc4",
     "installer": {
         "script": [
             "$src = \"$env:LOCALAPPDATA\\GameViewer\"",
